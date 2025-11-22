@@ -1,5 +1,13 @@
 # NoteX 📝
-A modern, stylus-optimized note-taking app for Android. NoteX brings smooth handwriting, powerful tools, and a clean interface designed for tablets and stylus users. Whether you're sketching ideas, creating diagrams, or taking lecture notes, NoteX gives you the flexibility of real paper with the power of digital tools.
+NoteX is stylus-friendly note-taking application for Android. The goal of NoteX is to offer a simple and reliable environment for writing, sketching ideas, creating diagrams, or taking study notes, while keeping the experience close to natural handwriting.
+
+---
+
+## 📛 Badges
+
+![Platform](https://img.shields.io/badge/platform-Android-blue)
+![License](https://img.shields.io/badge/license-Apache%202.0-orange)
+![Version](https://img.shields.io/badge/version-1.0.0-purple)
 
 ---
 
